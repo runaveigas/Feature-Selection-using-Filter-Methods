@@ -5,10 +5,10 @@ Filter Methods makes use of statistical techniques for selecting the features. I
   Depending on the nature of input and output variables the statistical methods can be applied as follows:
 </p>
 <ol><li>Continuous Input and Continuous Output:
-Pearsons Correlation Coefficient</li>
+<p>Pearsons Correlation Coefficient</p></li>
 <li>Categorical Input and Continuous Output
-Students t-test
-ANOVA F-test</li>
+<p>Students t-test</p>
+<p>ANOVA F-test</p></li>
 <li>Categorical Input and Categorical Output
-Chi-Square Test for Independence</li>
+<p>Chi-Square Test for Independence</p></li>
 </ol>
