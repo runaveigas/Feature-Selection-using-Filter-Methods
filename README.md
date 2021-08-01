@@ -12,3 +12,4 @@ Filter Methods makes use of statistical techniques for selecting the features. I
 <li>Categorical Input and Categorical Output
 <p>Chi-Square Test for Independence</p></li>
 </ol>
+<p>Complet Article available at: https://www.linkedin.com/pulse/feature-selection-using-filter-methods-runa-veigas/</p>
